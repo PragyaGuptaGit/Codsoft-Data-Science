@@ -1,1 +1,31 @@
-This project predicts whether a passenger survived the Titanic disaster using a Decision Tree Classifier. The dataset was cleaned by handling missing values and removing unnecessary columns before training the model. The workflow includes data preprocessing, model training, evaluation, and prediction on new passenger data. The model achieved an accuracy of approximately 65.36%.
+# Titanic Survival Prediction
+
+## Project Overview
+This project predicts whether a passenger survived the Titanic disaster using a Decision Tree Classifier.
+
+## Dataset
+- Titanic Dataset
+- 891 passenger records
+- 12 features
+
+## Steps Performed
+- Loaded dataset using Pandas
+- Explored the data
+- Handled missing values
+- Removed unnecessary columns
+- Split data into training and testing sets
+- Trained a Decision Tree Classifier
+- Evaluated model performance
+- Predicted survival for a new passenger
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+## Model Accuracy
+Accuracy: **65.36%**
+
+## Project Structure
+ complete machine learning workflow, including data preprocessing, model training, evaluation, and prediction using Python.
