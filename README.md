@@ -1,1 +1,1 @@
-# Codsoft-Data-Science
+This project predicts whether a passenger survived the Titanic disaster using a Decision Tree Classifier. The dataset was cleaned by handling missing values and removing unnecessary columns before training the model. The workflow includes data preprocessing, model training, evaluation, and prediction on new passenger data. The model achieved an accuracy of approximately 65.36%.
